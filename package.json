@@ -1,0 +1,22 @@
+{
+  "name": "raiz-contract",
+  "version": "1.0.0",
+  "description": "raiz dapp smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raiz",
+    "smart",
+    "contract",
+    "web3",
+    "blockchain"
+  ],
+  "author": "daviloops",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
