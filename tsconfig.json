@@ -7,5 +7,7 @@
     "strict": true,
     "skipLibCheck": true,
     "resolveJsonModule": true
-  }
+  },
+  "include": ["./scripts", "./tests", "./deploy", "./typechain-types"],
+  "files": ["./hardhat.config.ts"]
 }
